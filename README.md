@@ -17,15 +17,16 @@ Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffre
 <p align="center">
 
  
- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="GitHub" width="90" height="60"/> </a> 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="GitHub" width="60" height="60"/> </a> 
-<a href="https://hub.docker.com/u/raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="GitHub" width="60" height="60"/> </a> 
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="GitHub" width="60" height="60"/> </a>
-<a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-nexus-transparent-background-PNG.png" alt="GitHub" width="60" height="60"/> </a> 
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="90" height="60"/> </a> 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60"/> </a> 
+<a href="https://hub.docker.com/u/raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="DockerHub" width="60" height="60"/> </a> 
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="60" height="60"/> </a>
+<a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-nexus-transparent-background-PNG.png" alt="Nexus" width="60" height="60"/> </a> 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="GitHub" width="60" height="60"/> </a>
-<a href="https://maven.apache.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_maven.svg" alt="GitHub" width="60" height="60"/> </a> 
+<a href="https://maven.apache.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_maven.svg" alt="Maven" width="60" height="60"/> </a> 
   <a href="https://github.com/Raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="html5" width="60" height="60"/> </a>
  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nagios/nagios-ar21.svg" alt="html5" width="60" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> </a> 
