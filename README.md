@@ -17,7 +17,7 @@ Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffre
 <p align="center">
 
   
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="GitHub" width="90" height="60"/> </a> 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="GitHub" width="150" height="60"/> </a> 
 <a href="https://maven.apache.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" alt="GitHub" width="60" height="60"/> </a> 
   <a href="https://github.com/Raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
