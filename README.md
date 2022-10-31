@@ -19,7 +19,7 @@
 
 <p align="center">
 
- 
+<p align="center">
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="90" height="60"/> </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60"/> </a> 
 <a href="https://hub.docker.com/u/raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="DockerHub" width="60" height="60"/> </a> 
@@ -35,7 +35,7 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="mariadb" width="60" height="60"/> </a> 
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
-  
+</p>
   
   
   
