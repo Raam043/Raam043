@@ -16,7 +16,8 @@ Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffre
 
 <p align="center">
 
-  
+ 
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="GitHub" width="90" height="60"/> </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="GitHub" width="60" height="60"/> </a> 
 <a href="https://hub.docker.com/u/raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="GitHub" width="60" height="60"/> </a> 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="GitHub" width="60" height="60"/> </a>
