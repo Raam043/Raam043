@@ -14,3 +14,10 @@ Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffre
   <a href="mailto:raam043@gmail.com?subject=Hello Dear Ramesh N! I send this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raam043@gmail.com" height="28">
   </a>
+
+  <a href="https://github.com/Raam043" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Raam043?label=Github&style=flat" height="28">
+  </a>
+  <a href="https://github.com/Raam043" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Raam043&label=Views&color=brightgreen&style=flat" alt="Ramesh N" height="28" />
+  </a>
