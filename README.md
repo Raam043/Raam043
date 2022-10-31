@@ -9,3 +9,8 @@ Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffre
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raam043&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Ramesh N&#39;s GitHub stats" width="600"></p>
+
+
+  <a href="mailto:raam043@gmail.com?subject=Hello Dear Ramesh N! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raam043@gmail.com" height="28">
+  </a>
