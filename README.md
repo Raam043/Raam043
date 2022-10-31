@@ -48,8 +48,5 @@
   </a>
 
   <a href="https://github.com/Raam043" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Raam043?label=Github&style=flat" height="28">
-  </a>
-  <a href="https://github.com/Raam043" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Raam043&label=Views&color=brightgreen&style=flat" alt="Ramesh N" height="28" />
   </a>
