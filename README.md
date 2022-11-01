@@ -11,6 +11,13 @@
 
   Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffrent kind of Application deployment CICD pipelins.
 
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
      
 <p align="center"> 
   Visitor count<br>
