@@ -5,7 +5,7 @@
 
 
  
-  Please refer repo **[Projects](https://github.com/Raam043/Projects)** for deffrent kind of Application deployment CICD pipelins.
+  Please refer repo **[Projects - Repo](https://github.com/Raam043/Projects)** for deffrent kind of Application deployment CICD pipelins.
   
   
   Please refer repo **[Application Installation](https://github.com/Raam043/Applications-Installation.git)** for various application installation steps.
