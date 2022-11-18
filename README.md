@@ -62,7 +62,7 @@
   
   
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raam043&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true" alt="Ramesh N&#39;s GitHub stats" height="175"> align="center"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raam043&layout=compact&count_private=true&theme=nord" alt="Ramesh's language stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raam043&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true" alt="Ramesh N&#39;s GitHub stats" height="175"> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raam043&layout=compact&count_private=true&theme=nord" alt="Ramesh's language stats" /></p>
 
   <a href="mailto:raam043@gmail.com?subject=Hello Dear Ramesh N! I send this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raam043@gmail.com" height="28">
