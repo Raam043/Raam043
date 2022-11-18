@@ -62,7 +62,7 @@
   
   
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raam043&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true" alt="Ramesh N&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raam043&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true" alt="Ramesh N&#39;s GitHub stats" height="175"></p>
 
 
 <p align="center"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raam043&layout=compact&count_private=true&theme=nord" alt="Ramesh's language stats" /></p>
