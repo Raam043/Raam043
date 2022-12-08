@@ -42,7 +42,7 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Ansible" width="60" height="60"/> </a> 
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-nexus-transparent-background-PNG.png" alt="Nexus" width="60" height="60"/> </a>   
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="GitHub" width="60" height="60"/> </a> 
-<a href="https://maven.apache.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_maven.svg" alt="Maven" width="60" height="60"/> </a> 
+<a href="https://maven.apache.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="60" height="60"/> </a> 
 <a href="https://github.com/Raam043" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
 </p>
