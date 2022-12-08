@@ -48,7 +48,7 @@
 </p>
 <p align="center">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="html5" width="60" height="60"/> </a> 
-<a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nagios/nagios-ar21.svg" alt="html5" width="60" height="60"/> </a> 
+<a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://4allportal.com/wp-content/uploads/nagios-1.png" alt="html5" width="60" height="60"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="mariadb" width="60" height="60"/> </a>  
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> </a>  
